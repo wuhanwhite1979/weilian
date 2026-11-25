@@ -1,0 +1,16 @@
+.env
+.env.*
+.local/
+logs/
+artifacts/
+*.apk
+*.aab
+*.jks
+*.keystore
+*.key
+*.p12
+*.pfx
+*.db
+*.sqlite
+*.sqlite3
+*.log
